@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.ht.order-center' is invalid and this project uses 'com.ht.ordercenter' instead.
+* The original package name 'com.lin.order-center' is invalid and this project uses 'com.lin.ordercenter' instead.
 
 # Getting Started
 

@@ -1,4 +1,4 @@
-package com.ht.ordercenter.common;
+package com.lin.ordercenter.common;
 
 import com.baomidou.mybatisplus.extension.plugins.PaginationInterceptor;
 import com.baomidou.mybatisplus.extension.plugins.pagination.optimize.JsqlParserCountOptimize;
